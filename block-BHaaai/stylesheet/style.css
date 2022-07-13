@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(33,57,106);
+  font-family: sans-serif;
+}
+
+.container{
+    text-align: center;
+}
+.container img{
+    width: 400px;
+    height: 400px;
+    margin : 45px;
+}
+h1{
+   color: white; 
+   font-size: 45px;
+}
+.container a, address{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    
+}
+.footer{
+    background-color: rgb(55, 55, 109);
+    height: 40px;
+    text-align: center;
+    padding: 10px;
+}
+
+.footer a{
+    color: red;
+    margin: 10px;
+    font-size: 20px;
+    
+}
+.heading-two{
+    color: green;
+    margin-top: 20px;
+
+}
+h3, p{
+    color: white;
+    padding: 5px;
+}
+p{
+    font-size: 16px;;
+}
