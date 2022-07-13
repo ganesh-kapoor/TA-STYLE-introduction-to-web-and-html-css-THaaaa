@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(34,57,106);
+}
+h1{
+    color: white;
+}
+h2{
+    color: rgb(72,187,103);
+}
+ol li{
+    color: white;
+    
+}
+address{
+    color: white;
+}
+.paragraph{
+    color: white;
+}
+.white{
+    color: white;
+}
+em{
+    color: red;
+    font-weight: bolder;
+    margin: 0 10px;
+}
